@@ -16,3 +16,6 @@ window.addEventListener("keydown", function (e) {
       </table>
     </div>`;
 });
+alert(
+  "this Keys-Tracker-app will track only windows and MAC devices not mobile devices"
+);
